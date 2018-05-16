@@ -13,9 +13,6 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - PhD in Digital Arts and Humanities, National University of Ireland Maynooth, Ireland
 - PhD in Digital Humanities, University College London, UK
 
-### North America
-- [Texts & Technology Ph.D. Program](https://tandt.cah.ucf.edu/), University of Central Florida, USA
-
 ## Masters
 
 ### Asia
@@ -79,6 +76,7 @@ List in progress. Please submit a pull request or add an issue with your suggest
 - [Certificate in Digital Humanities, Pratt Institute, USA](https://www.pratt.edu/academics/information/advanced-certificates/digital-humanities/)
 - [Certificate in Digital Humanities, University of Victoria, USA](http://web.uvic.ca/~siemens/DH(SI)GradCertificateProposal.pdf) \[no longer offered\]
 - [Certificate in Digital Humanities, Northeastern University, USA](https://www.northeastern.edu/cssh/history/graduate/programs/graduate-certificate-in-digital-humanities/)
+-[Digital Humanities Graduate Certificate, University of Florida, USA](http://digitalhumanities.group.ufl.edu/dh-graduate-certificate/)
 - Specialization in Digital Humanities, Indiana University Bloomington, USA
 - Graduate Certificate in Digital Studies and Methods, University of Pittsburgh, USA
 - [Graduate Certificate in Digital Humanities](https://dh.virginia.edu/certificate), University of Virginia, USA
